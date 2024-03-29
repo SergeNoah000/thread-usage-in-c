@@ -1,0 +1,30 @@
+Portion: [0, 100]
+Occurrences du nombre 11: 4 trouvé(es) par le thread 1
+
+Portion: [400, 500]
+Occurrences du nombre 11: 2 trouvé(es) par le thread 5
+
+Portion: [200, 300]
+Occurrences du nombre 11: 4 trouvé(es) par le thread 3
+
+Portion: [300, 400]
+Occurrences du nombre 11: 1 trouvé(es) par le thread 4
+
+Portion: [100, 200]
+Occurrences du nombre 11: 7 trouvé(es) par le thread 2
+
+Portion: [600, 700]
+Occurrences du nombre 11: 9 trouvé(es) par le thread 7
+
+Portion: [500, 600]
+Occurrences du nombre 11: 3 trouvé(es) par le thread 6
+
+Portion: [700, 800]
+Occurrences du nombre 11: 5 trouvé(es) par le thread 8
+
+Portion: [900, 1000]
+Occurrences du nombre 11: 4 trouvé(es) par le thread 10
+
+Portion: [800, 900]
+Occurrences du nombre 11: 6 trouvé(es) par le thread 9
+
